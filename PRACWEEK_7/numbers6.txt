@@ -1,0 +1,15 @@
+28 aRandomString 29
+32 aRandomishString 33
+36 aRandomisedString 37
+40 aNonRandomString 41
+44 aStringThatIsRandom 45
+52 aWeirdString 53
+56 anUnusualString 57
+60 aStringThatIsLongerThanTheRestOfTheStringsInThisFile 61
+64 aHappyString:-) 65
+68 aSadString:-( 69
+76 aWinkingString;-) 77
+80 aStraightFaceString:-| 81
+84 aShockedString:-O 85
+88 aSkepticalString:-/ 89
+97 anAngryString>:( 101
